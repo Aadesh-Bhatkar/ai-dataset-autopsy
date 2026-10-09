@@ -1,0 +1,6 @@
+{
+  "name": "AI Dataset Autopsy",
+  "description": "Investigate your data, discover hidden problems, and prepare better datasets with automated profiling, outlier detection, leakage analysis, and cleaning guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
